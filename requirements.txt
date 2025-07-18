@@ -1,0 +1,7 @@
+Flask
+flask-cors
+pandas
+yfinance
+scikit-learn
+matplotlib
+joblib
